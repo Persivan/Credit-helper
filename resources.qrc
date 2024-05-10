@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/recources">
+        <file>img/close3.png</file>
+        <file>styleuwu.qss</file>
+        <file>Icon.ico</file>
+    </qresource>
+    <qresource prefix="/uwu">
+        <file>max.jpg</file>
+        <file>e29.png</file>
+        <file>notuwu.png</file>
+    </qresource>
+</RCC>
